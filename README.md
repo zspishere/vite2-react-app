@@ -1,4 +1,4 @@
-This Simple Repo is designed to reappearing the error as below, powered by `vite2` and `react-17` and `[react-activation](https://github.com/CJY0208/react-activation)`.
+This Simple Repo is designed to reappearing the error as below, powered by `vite2` and `react-17` and [`react-activation`](https://github.com/CJY0208/react-activation).
 I guess it's vite2's bug, because webpack is OK.
 
 - `yarn dev` is ok
